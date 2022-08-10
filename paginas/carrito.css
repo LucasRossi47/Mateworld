@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#menuhorizontal {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+} 
+#menuHorizontal a { width:310px;
+    text-decoration:none;
+    text-align:center;
+    color:black;
+    background-color:darkgreen;
+    padding:3px 5px;
+    border-right:1px solid black;
+    display:block; 
+}
+#menuHorizontal li {
+    float:left;
+}
+#menuhorizontal a:hover {
+    background-color:#336699;
+}
+.footer{
+    background-color: greenyellow;
+    text-align: center;
+    font-family: fantasy;
+}
+.letra{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+.relleno{
+    background-color: black;
+    color: white;
+}
+.vacio{
+    background-color: darkgreen;
+    height: 150px;
+    text-align: center;
+}

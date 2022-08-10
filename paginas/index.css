@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: greenyellow;
+    }
+    .titulo{
+    background-color: darkgreen;
+    }
+    #menuhorizontal {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    } 
+    #menuHorizontal a { width:100px;
+    text-decoration:none;
+    text-align:center;
+    color:black;
+    background-color:darkgreen;
+    padding:3px 5px;
+    border-right:1px solid black;
+    display:block; 
+    }
+    #menuHorizontal li {
+    float:left;
+    }
+    #menuhorizontal a:hover {
+    background-color:#336699;
+    }
+    .inicio{
+    background-color:black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    header nav ul{
+    background-color: greenyellow;
+    }
+    #buscador{
+    background-color: black;
+    color: white;
+    }
+    .cuadro-mates{
+    background-color: darkgreen;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .ideal{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .cuadro{
+    width: 150px;
+    height: 150px;
+    background-image: url("https://d3ugyf2ht6aenh.cloudfront.net/stores/001/656/422/products/20210728_124323-29bb5bcec6f2e2777816274876662726-1024-1024.jpg");
+    background-size: cover;
+    }
+    .cuadro2{
+    width: 150px;
+    height: 150px;
+    background-image: url("https://d2r9epyceweg5n.cloudfront.net/stores/001/156/504/products/photo-2019-06-27-21-30-431-0a663c789b1f2b76c615872551991414-1024-1024.jpg");
+    background-size: cover;
+    }
+    .m15px{
+    margin: 15px;
+    }
+    .redondeados{
+    border-radius: 15px;
+    }
+    .tutorial{
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    .tutorialVideo{
+    width: 300px;
+    height: 200px;
+    border-radius: 15px;
+    }
+    .footer{
+    background-color: greenyellow;
+    text-align: center;
+    font-family: fantasy;
+    }
+    #fondoTutorial{
+    background-color: black;
+    }

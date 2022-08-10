@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#menuhorizontal {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+} 
+#menuHorizontal a { 
+    width:310px;
+    text-decoration:none;
+    text-align:center;
+    color:black;
+    background-color:darkgreen;
+    padding:3px 5px;
+    border-right:1px solid black;
+    display:block; 
+}
+#menuHorizontal li {
+    float:left;
+}
+#menuhorizontal a:hover {
+    background-color:#336699;
+}
+.titulo{
+    background-color: black;
+    color: white;
+}
+.letra{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    text-align: center;
+}
+.footer{
+    background-color: greenyellow;
+    text-align: center;
+    font-family: fantasy;
+}
+.cuadro{
+    width: 100%;
+    height: 100%;
+    background-color: darkgreen;
+}
+.fondo{
+    background-color: black;
+}
